@@ -4,8 +4,11 @@ layout: about
 
 # About Me
 In 2005, graduated with a master's degree from the Department of Electronic Engineering at Tsinghua University, under the supervision of Professor Ding Xiaoqing. 
+
 The research focus was on image processing and pattern recognition. 
+
 Having worked for many years, there's a consistent passion for solving various problems using AI technology, finding great enjoyment in it. 
+
 Since graduation, worked in startups and internet companies, involving in areas such as computer vision, data mining, computational advertising, search, recommendation, intelligent marketing, payment risk control, conversational bots, ride-sharing dispatch, intelligent pricing, multimodal content understanding, and large language models.
 
 <br/>
