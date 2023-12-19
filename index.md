@@ -32,7 +32,7 @@ I like to automate and reduce annoying things.
 
 
 # Publications
-> [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC){: style="color: blue"} KDD 2021
+> [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC){: style="color: blue"} <font color=#008000>KDD 2021</font>   
 > D Xi, Z Chen, P Yan, Y Zhang, Y Zhu, F Zhuang, Y Chen
 
 * [E-commerce item recommendation based on field-aware factorization machine]
