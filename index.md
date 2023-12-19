@@ -30,7 +30,8 @@ I'm not afraid to learn languages, but I enjoy using Python.
 I like to automate and reduce annoying things.  
 
 
-# Publications
 
+# Publications
+* [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC) KDD 2021
 
 Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=D5qtWJkAAAAJ)
