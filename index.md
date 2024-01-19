@@ -35,17 +35,18 @@ Since graduation, worked in startups and internet companies, involving in areas 
 <br/>
 
 ## Competitions
-* First place of ACM KDD CUP 2015
-* First place of ACM KDD CUP 2017
-* Third place of ACM RecSys Challenge 2015
-* Third Place of ACM RecSys Challenge 2019
-* First place of ACM WSDM CUP 2020
-* First place of Springleaf Marketing Response Competition（Kaggle 2015）
-* First place of Outbrain Click Prediction Competition（Kaggle 2017）
-* First place of Corporación Favorita Grocery Sales Forecasting Competition（Kaggle 2018）
-* Third place of Click-Through Rate Prediction Competition (Kaggle 2015)
-* Third place of Quick, Draw! Doodle Recognition Challenge(2018)
-* Ranked third in the global Kaggle points leaderboard （2018）
+* ACM KDD CUP 2015: 1st place
+* ACM KDD CUP 2017: 1st place
+* ACM RecSys Challenge 2015: 3rd place
+* ACM RecSys Challenge 2019: 3rd place
+* ACM WSDM CUP 2020: 1st place
+* Kaggle Competitions:
+  * Springleaf Marketing Response Competition (2015): 1st place
+  * Outbrain Click Prediction Competition (2017): 1st place
+  * Corporación Favorita Grocery Sales Forecasting Competition (2018): 1st place
+  * Click-Through Rate Prediction Competition (2015): 3rd place
+  * Quick, Draw! Doodle Recognition Challenge (2018): 3rd place
+* Ranked 3rd on global Kaggle points leaderboard (2018)
 
 
 ## Publications
