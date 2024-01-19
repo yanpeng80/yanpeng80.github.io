@@ -2,7 +2,6 @@
 layout: about 
 ---
 
-## About Me
 In 2005, graduated with a master's degree from the Department of Electronic Engineering at Tsinghua University, under the supervision of Professor Ding Xiaoqing. 
 
 The research focus was on image processing and pattern recognition. 
