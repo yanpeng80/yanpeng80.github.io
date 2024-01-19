@@ -50,18 +50,19 @@ Since graduation, worked in startups and internet companies, involving in areas 
 
 
 ## Publications
-> [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC){: style="color: blue"} <font color=#008000>KDD 2021</font>   
+> [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC){: style="color: blue"}, KDD 2021<br>
 > D Xi, Z Chen, P Yan, Y Zhang, Y Zhu, F Zhuang, Y Chen
 
-> [E-commerce item recommendation based on field-aware factorization machine](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:qjMakFHDy7sC){: style="color: blue"} <font color=#008000>RecSys 2015</font>
+> [E-commerce item recommendation based on field-aware factorization machine](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:qjMakFHDy7sC){: style="color: blue"}, RecSys 2015<br>
 > P Yan, X Zhou, Y Duan
 
-> [Practical counterfactual policy learning for Top-K recommendations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:d1gkVwhDpl0C){: style="color: blue"} <font color=#008000>KDD 2022</font>
+> [Practical counterfactual policy learning for Top-K recommendations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:d1gkVwhDpl0C){: style="color: blue"}, KDD 2022<br>
 > Y Liu, JN Yen, B Yuan, R Shi, P Yan, CJ Lin
 
-> [Session-based item recommendation with pairwise features](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:u5HHmVD_uO8C){: style="color: blue"}  <font color=#008000>RecSys 2019</font>
+> [Session-based item recommendation with pairwise features](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:u5HHmVD_uO8C){: style="color: blue"}, RecSys 2019<br>
 > Z Wang, Y Gao, H Chen, P Yan
 
-> [Passenger engagement dynamics in ride-hailing services: A heterogeneous hidden Markov approach](https://www.sciencedirect.com/science/article/pii/S1366554523000054){: style="color: blue"}  <font color=#008000>Transportation Research Part E</font>
+> [Passenger engagement dynamics in ride-hailing services: A heterogeneous hidden Markov approach](https://www.sciencedirect.com/science/article/pii/S1366554523000054){: style="color: blue"}, Transportation Research Part E<br>
 > X Chen, S Bai, Y Wei, Y Zhao, P Yan, H Jiang
+
 Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=D5qtWJkAAAAJ){: style="color: blue"}
