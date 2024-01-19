@@ -40,6 +40,8 @@ p {
   color: $default-shade;
   font-family: $sans-serif;
   line-height: normal;
+  -webkit-font-smoothing: antialiased!important;
+  text-rendering: optimizeLegibility!important;
 }
 
 li,
