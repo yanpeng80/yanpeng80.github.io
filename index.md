@@ -13,24 +13,23 @@ Since graduation, worked in startups and internet companies, involving in areas 
 <br/>
 
 ## Career
-* MeiTuan (2016 ~ now)
-  * Hotel and Tourism Division（2016 ~ 2017）
-    * Senior Algorithm Expert：Search ranking and recommendation work for the hotel and tourism business.
-  * Financial Division (2017 ~ 2021)
-    * Algorithm Researcher：Intelligent marketing, payment risk control, and intelligent conversational robots.
-    * Technical Committee Member 
-  * Ride-Hailing Business Division (2021 ~ 2023)
+* **MeiTuan (2016 - Present)**
+  * DianPing Division (2023 - Present)
+    * Head of Content Intelligence: Content Search、Content Understanding、Exploration of practical applications of large language models
+  * Ride-Hailing Business Division (2021 - 2023)
     * Head of Trading Strategy: Ride-Hailing Dispatch、Driver Scheduling、Intelligent Subsidy Pricing、User Growth
     * Technical Committee Member
-  * DianPing Division (2023 ~ now)
-    * Head of Content Intelligence: Content Search、Content Understanding、Exploration of practical applications of large language models
-        
-* NetEase Youdao (2011 ~ 2016)
+  * Financial Division (2017 - 2021)
+    * Algorithm Researcher：Intelligent marketing, payment risk control, and intelligent conversational robots.
+    * Technical Committee Member 
+  * Hotel and Tourism Division（2016 - 2017）
+    * Senior Algorithm Expert：Search ranking and recommendation work for the hotel and tourism business.
+* **NetEase Youdao (2011 - 2016)**
   * Senior Algorithm Engineer：Optimization of strategies related to user interest mining, e-commerce advertising, and NetEase email effect advertising.
   * Technical Committee Member
-* Startup company (2008 ~ 2011)
+* **Startup company (2008 - 2011)**
   * Co-founder & CTO：Providing data mining services for state-owned enterprise.
-* Startup company (2005 ~ 2008)
+* **Startup company (2005 - 2008)**
   * Project Manager：Develop an automatic defect detection system for industrial products.
 <br/>
 
