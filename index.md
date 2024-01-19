@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-# About Me
+## About Me
 In 2005, graduated with a master's degree from the Department of Electronic Engineering at Tsinghua University, under the supervision of Professor Ding Xiaoqing. 
 
 The research focus was on image processing and pattern recognition. 
@@ -13,7 +13,7 @@ Since graduation, worked in startups and internet companies, involving in areas 
 
 <br/>
 
-# Career
+## Career
 * MeiTuan (2016 ~ now)
   * Hotel and Tourism Division（2016 ~ 2017）
     * Senior Algorithm Expert：Search ranking and recommendation work for the hotel and tourism business.
@@ -35,7 +35,7 @@ Since graduation, worked in startups and internet companies, involving in areas 
   * Project Manager：Develop an automatic defect detection system for industrial products.
 <br/>
 
-# Competitions
+## Competitions
 * First place of ACM KDD CUP 2015
 * First place of ACM KDD CUP 2017
 * Third place of ACM RecSys Challenge 2015
@@ -49,7 +49,7 @@ Since graduation, worked in startups and internet companies, involving in areas 
 * Ranked third in the global Kaggle points leaderboard （2018）
 
 
-# Publications
+## Publications
 > [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC){: style="color: blue"} <font color=#008000>KDD 2021</font>   
 > D Xi, Z Chen, P Yan, Y Zhang, Y Zhu, F Zhuang, Y Chen
 
