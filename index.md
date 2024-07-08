@@ -34,8 +34,12 @@ Post-graduation, I have had the privilege of contributing to numerous startups a
 ## Competitions
 * ACM KDD CUP 2015: 1st place
 * ACM KDD CUP 2017: 1st place
+* ACM KDD CUP 2024(OAG-Challenge：WhoIsWho-IND Task): 1st place（Team Coach）
+* ACM KDD CUP 2024(OAG-Challenge：PST Task): 1st place（Team Coach）
+* ACM KDD CUP 2024(OAG-Challenge：AQA Task): 1st place（Team Coach）
 * ACM RecSys Challenge 2015: 3rd place
 * ACM RecSys Challenge 2019: 3rd place
+* ACM RecSys Challenge 2024: 2nd place
 * ACM WSDM CUP 2020: 1st place
 * Kaggle Competitions:
   * Springleaf Marketing Response Competition (2015): 1st place
