@@ -66,4 +66,7 @@ Post-graduation, I have had the privilege of contributing to numerous startups a
 > [Passenger engagement dynamics in ride-hailing services: A heterogeneous hidden Markov approach](https://www.sciencedirect.com/science/article/pii/S1366554523000054){: style="color: blue"}, Transportation Research Part E 2023<br>
 > X Chen, S Bai, Y Wei, Y Zhao, P Yan, H Jiang
 
+> [Large Scale Hierarchical User Interest Modeling for Click-through Rate Prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:YsMSGLbcyi4C){: style="color: blue"}, RecSys 2024<br>
+> T Xue, Z Lin, Z Zhang, L Guo, H Chen, M Bao, P Yan
+
 Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=D5qtWJkAAAAJ){: style="color: blue"}
