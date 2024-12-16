@@ -63,7 +63,7 @@ Post-graduation, I have had the privilege of contributing to numerous startups a
 > [Session-based item recommendation with pairwise features](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:u5HHmVD_uO8C){: style="color: blue"}, RecSys 2019<br>
 > Z Wang, Y Gao, H Chen, P Yan
 
-> [Passenger engagement dynamics in ride-hailing services: A heterogeneous hidden Markov approach](https://www.sciencedirect.com/science/article/pii/S1366554523000054){: style="color: blue"}, Transportation Research Part E<br>
+> [Passenger engagement dynamics in ride-hailing services: A heterogeneous hidden Markov approach](https://www.sciencedirect.com/science/article/pii/S1366554523000054){: style="color: blue"}, Transportation Research Part E 2023<br>
 > X Chen, S Bai, Y Wei, Y Zhao, P Yan, H Jiang
 
 Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=D5qtWJkAAAAJ){: style="color: blue"}
