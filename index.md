@@ -37,6 +37,7 @@ Post-graduation, I have had the privilege of contributing to numerous startups a
 * ACM KDD CUP 2024(OAG-Challenge：WhoIsWho-IND Task): 1st place（Team Coach）
 * ACM KDD CUP 2024(OAG-Challenge：PST Task): 1st place（Team Coach）
 * ACM KDD CUP 2024(OAG-Challenge：AQA Task): 1st place（Team Coach）
+* ACM KDD CUP 2025(CRAG-MM Challenge：Multi-Turn QA Task): 2nd place
 * ACM RecSys Challenge 2015: 3rd place
 * ACM RecSys Challenge 2019: 3rd place
 * ACM RecSys Challenge 2024: 2nd place
