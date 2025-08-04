@@ -52,22 +52,28 @@ Post-graduation, I have had the privilege of contributing to numerous startups a
 
 
 ## Publications
-> [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC){: style="color: blue"}, KDD 2021<br>
-> D Xi, Z Chen, P Yan, Y Zhang, Y Zhu, F Zhuang, Y Chen
+> [Personalized image generation with large multimodal models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&sortby=pubdate&authuser=1&citation_for_view=D5qtWJkAAAAJ:WF5omc3nYNoC){: style="color: blue"}, WWW 2025<br>
+> Yiyan Xu, Wenjie Wang, Yang Zhang, Biao Tang, Peng Yan, Fuli Feng, Xiangnan He
 
-> [E-commerce item recommendation based on field-aware factorization machine](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:qjMakFHDy7sC){: style="color: blue"}, RecSys 2015<br>
-> P Yan, X Zhou, Y Duan
+> [Self-evolutionary large language models through uncertainty-enhanced preference optimization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&sortby=pubdate&authuser=1&citation_for_view=D5qtWJkAAAAJ:W7OEmFMy1HYC){: style="color: blue"}, AAAI 2025<br>
+> J Wang, Y Zhou, X Zhang, M Bao, P Yan
 
-> [Practical counterfactual policy learning for Top-K recommendations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:d1gkVwhDpl0C){: style="color: blue"}, KDD 2022<br>
-> Y Liu, JN Yen, B Yuan, R Shi, P Yan, CJ Lin
-
-> [Session-based item recommendation with pairwise features](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:u5HHmVD_uO8C){: style="color: blue"}, RecSys 2019<br>
-> Z Wang, Y Gao, H Chen, P Yan
+> [Large Scale Hierarchical User Interest Modeling for Click-through Rate Prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:YsMSGLbcyi4C){: style="color: blue"}, RecSys 2024<br>
+> T Xue, Z Lin, Z Zhang, L Guo, H Chen, M Bao, P Yan
 
 > [Passenger engagement dynamics in ride-hailing services: A heterogeneous hidden Markov approach](https://www.sciencedirect.com/science/article/pii/S1366554523000054){: style="color: blue"}, Transportation Research Part E 2023<br>
 > X Chen, S Bai, Y Wei, Y Zhao, P Yan, H Jiang
 
-> [Large Scale Hierarchical User Interest Modeling for Click-through Rate Prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:YsMSGLbcyi4C){: style="color: blue"}, RecSys 2024<br>
-> T Xue, Z Lin, Z Zhang, L Guo, H Chen, M Bao, P Yan
+> [Practical counterfactual policy learning for Top-K recommendations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:d1gkVwhDpl0C){: style="color: blue"}, KDD 2022<br>
+> Y Liu, JN Yen, B Yuan, R Shi, P Yan, CJ Lin
+
+> [Modeling the sequential dependence among audience multi-step conversions with multi-task learning in targeted display advertising](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:2osOgNQ5qMEC){: style="color: blue"}, KDD 2021<br>
+> D Xi, Z Chen, P Yan, Y Zhang, Y Zhu, F Zhuang, Y Chen
+
+> [Session-based item recommendation with pairwise features](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:u5HHmVD_uO8C){: style="color: blue"}, RecSys 2019<br>
+> Z Wang, Y Gao, H Chen, P Yan
+
+> [E-commerce item recommendation based on field-aware factorization machine](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D5qtWJkAAAAJ&citation_for_view=D5qtWJkAAAAJ:qjMakFHDy7sC){: style="color: blue"}, RecSys 2015<br>
+> P Yan, X Zhou, Y Duan
 
 Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=D5qtWJkAAAAJ){: style="color: blue"}
