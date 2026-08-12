@@ -7,13 +7,13 @@ I earned my Master’s degree in Electronic Engineering from Tsinghua University
 
 Throughout my career across top internet enterprises and startups, I have spearheaded core AI systems that power complex business ecosystems. My domain expertise spans:
 
-Foundation Models & Multimodal AI: LLM architecture, pre-training/SFT strategies, and multimodal content comprehension.
+* Foundation Models & Multimodal AI: LLM architecture, pre-training/SFT strategies, and multimodal content comprehension.
 
-Search & Recommendation: Content intelligence, search algorithms, and personalized recommendation engines.
+* Search & Recommendation: Content intelligence, search algorithms, and personalized recommendation engines.
 
-Decision AI & Trading Strategy: Ride-hailing dispatch, dynamic pricing, and driver scheduling algorithms.
+* Decision AI & Trading Strategy: Ride-hailing dispatch, dynamic pricing, and driver scheduling algorithms.
 
-Risk & Monetization: Payment risk control, computational advertising, and intelligent marketing.
+* Risk & Monetization: Payment risk control, computational advertising, and intelligent marketing.
 <br/>
 
 ## Career
