@@ -1,19 +1,19 @@
 ## About 
 ---
 
-I am a senior AI architect and engineering leader with nearly 20 years of experience driving large-scale AI applications across search, recommendation, trading strategy, and foundation models. Currently, I serve as a Principal Architect in Meituan’s Foundation Model Team, shaping the architecture and algorithmic strategies for next-generation AI.
+I am a senior AI architect and engineering leader with over 20 years of experience driving large-scale AI applications across foundation models, complex trading systems, search/recommendation, and commercial monetization. Currently, I serve as an Architect in Meituan’s Foundation Model Team, shaping the development and algorithmic strategies for next-generation AI.
 
 I earned my Master’s degree in Electronic Engineering from Tsinghua University in 2005 under the mentorship of Prof. Ding Xiaoqing, specializing in image processing and pattern recognition.
 
-Throughout my career across top internet enterprises and startups, I have spearheaded core AI systems that power complex business ecosystems. My domain expertise spans:
+Throughout my career—from acting as CTO for startups to serving as a core Technical Committee Member at both NetEase Youdao and Meituan—I have spearheaded core AI systems that power complex business ecosystems. My domain expertise directly reflects my professional journey:
 
-* Foundation Models & Multimodal AI: LLM architecture, pre-training/SFT strategies, and multimodal content comprehension.
+* Foundation Models & Content Intelligence: Driving foundation model development, algorithm strategies, and the practical application of LLMs, backed by extensive leadership in content search and understanding (Meituan Foundation Model & DianPing).
 
-* Search & Recommendation: Content intelligence, search algorithms, and personalized recommendation engines.
+* Decision AI & Trading Strategy: Architecting complex trading strategies for large-scale ride-hailing platforms, including intelligent dispatch, driver scheduling, dynamic subsidy pricing, and user growth (Meituan Ride-Hailing).
 
-* Decision AI & Trading Strategy: Ride-hailing dispatch, dynamic pricing, and driver scheduling algorithms.
+* Search, Recommendation & Data Mining: Building search ranking and personalized recommendation engines for local-life services, alongside deep expertise in user interest mining and enterprise data services (Meituan Hotel/Tourism, NetEase Youdao & Startup).
 
-* Risk & Monetization: Payment risk control, computational advertising, and intelligent marketing.
+* Monetization, Risk Control & Applied AI: Innovating in computational advertising, intelligent marketing, and payment risk control, with early technical roots spanning intelligent conversational bots and industrial automated defect detection (NetEase Youdao, Meituan Financial & Startup).
 <br/>
 
 ## Career
