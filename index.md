@@ -1,4 +1,4 @@
-layout: about 
+## About 
 ---
 
 I am a Tsinghua University alumnus, where I earned my Master's degree in Electronic Engineering in 2005, under the mentorship of Professor Ding Xiaoqing. My research centered on image processing and pattern recognition, laying a strong foundation for my ensuing career in artificial intelligence.
