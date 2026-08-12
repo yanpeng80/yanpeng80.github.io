@@ -1,12 +1,19 @@
 ## About 
 ---
 
-I am a Tsinghua University alumnus, where I earned my Master's degree in Electronic Engineering in 2005, under the mentorship of Professor Ding Xiaoqing. My research centered on image processing and pattern recognition, laying a strong foundation for my ensuing career in artificial intelligence.
+I am a senior AI architect and engineering leader with nearly 20 years of experience driving large-scale AI applications across search, recommendation, trading strategy, and foundation models. Currently, I serve as a Principal Architect in Meituan’s Foundation Model Team, shaping the architecture and algorithmic strategies for next-generation AI.
 
-My professional journey has been driven by an unwavering passion for utilizing AI to solve complex problems across various domains. I find immense satisfaction in creating innovative solutions and pushing the boundaries of technology.
+I earned my Master’s degree in Electronic Engineering from Tsinghua University in 2005 under the mentorship of Prof. Ding Xiaoqing, specializing in image processing and pattern recognition.
 
-Post-graduation, I have had the privilege of contributing to numerous startups and renowned internet companies. My expertise spans a broad spectrum of AI applications, including computer vision, data mining, computational advertising, search algorithms, recommendation systems, intelligent marketing, payment risk control, conversational bots, ride-sharing dispatch systems, intelligent pricing strategies, multimodal content comprehension, and the architecture and development of cutting-edge foundation models.
+Throughout my career across top internet enterprises and startups, I have spearheaded core AI systems that power complex business ecosystems. My domain expertise spans:
 
+Foundation Models & Multimodal AI: LLM architecture, pre-training/SFT strategies, and multimodal content comprehension.
+
+Search & Recommendation: Content intelligence, search algorithms, and personalized recommendation engines.
+
+Decision AI & Trading Strategy: Ride-hailing dispatch, dynamic pricing, and driver scheduling algorithms.
+
+Risk & Monetization: Payment risk control, computational advertising, and intelligent marketing.
 <br/>
 
 ## Career
