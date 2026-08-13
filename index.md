@@ -1,5 +1,4 @@
 ## About 
----
 
 I am a senior AI architect and engineering leader with over 20 years of experience driving large-scale AI applications across foundation models, complex trading systems, search/recommendation, and commercial monetization. Currently, I serve as an Architect in Meituan’s Foundation Model Team, shaping the development and algorithmic strategies for next-generation AI.
 
